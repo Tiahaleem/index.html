@@ -1,0 +1,57 @@
+[
+    {
+        "id":1,
+        "name": "Baby spinach",
+        "price": 200,
+        "image": "img/baby-spinach.png"
+    },
+
+    {
+        "id":2,
+        "name": "Bluberries",
+        "price": 250,
+        "image": "img/Bluberries.png"
+    },
+
+    {
+        "id":3,
+        "name": "Bluberries-2",
+        "price": 240,
+        "image": "img/Bluberries-2.png"
+    },
+    
+    {
+        "id":4,
+        "name": "Cucumber",
+        "price": 350,
+        "image": "img/Cucumber.png"
+    },
+
+    {
+        "id":5,
+        "name": "Celery-Stick-1",
+        "price": 390,
+        "image": "img/Celery-Stick-1.png"
+    },
+
+    {
+        "id":6,
+        "name": "Leaf",
+        "price": 490,
+        "image": "img/Celery-Stick-1.png"
+    },
+
+    {
+        "id":7,
+        "name": "Brussels-Sprout",
+        "price": 560,
+        "image": "img/Brussels-Sprout-1.png"
+    },
+
+    {
+        "id":8,
+        "name": "Sweet-Corn",
+        "price": 690,
+        "image": "img/image (1).jpeg"
+    }
+]
